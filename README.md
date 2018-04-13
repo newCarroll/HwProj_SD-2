@@ -15,4 +15,4 @@
 Ссылка на проект - https://ninjamock.com/s/4ZLFKRx
 
 
-Диаграмма активностей для потока экранов в файле activity_diagram.png
+Диаграмма активностей для потока экранов в файле HwProj_diagram.png
